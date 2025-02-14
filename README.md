@@ -1,2 +1,3 @@
-# Arduino-Sample-Projects
-**Arduino-Sample-Projects** is a collection of example projects demonstrating various Arduino applications, including LED control, sensor integration, motor control, and wireless communication. These projects help beginners and enthusiasts learn and experiment with Arduino programming and hardware. 🚀
+**Arduino-Sample-Projects** is a collection of example projects demonstrating various Arduino applications, including LED control, sensor integration, motor control, and wireless communication. These projects help beginners and enthusiasts learn and experiment with Arduino programming and hardware.  
+
+Additionally, some Arduino boards and ESP8266/ESP32 modules use the **CH341SER driver** for USB-to-serial communication. This driver is required for computers to recognize certain boards using the CH340/CH341 USB-to-serial chip. If your board is not detected, installing the **CH341SER driver** can resolve connection issues.
